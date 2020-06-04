@@ -1,5 +1,5 @@
 
-# Pyspark and Pytest
+# Scala with Spark MLlib
 ##                                              Sample Production code.
                                                     - Akhil Dudhe
 
